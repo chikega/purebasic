@@ -88,7 +88,7 @@
 @Description
 
   @Keyword ReDim is used to 'resize' an already declared array while preserving its content. The
-  new size can be larger or smaller, but the number of dimension of the array can not be changed.
+  new size can be larger or smaller, but the number of dimensions of the array can not be changed.
   @LineBreak
   @LineBreak
   If @Keyword ReDim is used with a multi-dimension array, only its last dimension can be changed.
