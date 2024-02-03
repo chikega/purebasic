@@ -113,7 +113,7 @@
   
   ;  ReDim MyTab(4,1,1) ; NO !
   ;  ReDim MyTab(1,4,1) ; NO !
-  ReDim MyTab(1,1,4) ; YES ! only its last dimension can be changed.
+  ReDim MyTab(1,1,4) ; YES, only the last dimension can be changed!
   MyTab(1,1,4) = 3
 @EndCode
 
