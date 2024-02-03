@@ -60,7 +60,7 @@
   @Example Array as procedure parameter
   
 @Code  
-  Procedure fill(Array Numbers(1), Length)  ; the 1 stays for the number of dimensions in the array
+  Procedure fill(Array Numbers(1), Length)  ; the 1 stands for the number of dimensions in the array
     For i = 0 To Length
       Numbers(i) = i
     Next
